@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JennJennO
 - 👀 I’m interested in Data Science, Data Wrangling, Data Engineering. Pretty much anything to do with Big Data.
-- 🌱 I’m currently learning Workday Integrations
+- 🌱 I’m currently working on a portfolio for Python and Machine Learning
 - 💞️ I’m looking to collaborate on Python and Machine Learning projects
 - 📫 How to reach me: jennonukwugha@outlook.com
 
