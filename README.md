@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JennJennO
-- 👀 I’m interested in Python, Data Analytics, Data Wrangling, and Data Engineering. 
-- 🌱 I’m currently working on a portfolio for Python and Data Science
-- 💞️ I’m looking to collaborate on Python and Data Analytics projects
+- 👀 I’m interested Fron End Development and Data Visualization. 
+- 🌱 I’m currently working on a professional portfolio
+- 💞️ I’m looking to collaborate on open-source projects
 - 📫 How to reach me: jennonukwugha@outlook.com
 
 <!---
