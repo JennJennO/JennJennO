@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JennJennO
-- 👀 I’m interested in Front End Development and Data Visualization. 
+- 👀 I’m interested in Software Development and Data Visualization. 
 - 🌱 I’m currently working on a professional portfolio
 - 💞️ I’m looking to collaborate on open-source projects
 - 📫 How to reach me: jennonukwugha@outlook.com
