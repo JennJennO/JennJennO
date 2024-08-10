@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JennJennO
-- 👀 I’m interested in Software, Frontend, and WEb Development. 
+- 👀 I’m interested in Software, Frontend, and Web Development. 
 - 🌱 I’m working on my portfolio
 - 💞️ I’m looking to collaborate on open-source projects
 - 📫 How to reach me: jennonukwugha@outlook.com
