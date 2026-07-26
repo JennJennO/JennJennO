@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JennJennO
+- 👋 Hi, I’m Jenniffer
 - 👀 I’m interested in Software QA, Frontend Development, and Web Development. 
 - 🌱 I’m working on my portfolio
 - 💞️ I’m looking to collaborate on open-source projects
